@@ -1,0 +1,16 @@
+.doc {
+    border: 1px solid red;
+}
+
+.text-1 {
+    text-align: center;
+}
+
+.text-2 {
+    text-align: right;
+}
+
+.textpp {
+    letter-spacing: 1;
+    height: 100px;
+}
